@@ -6,11 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-
-	update
-
-    git_update
-    git_update2
-
+<body>
+All Delete
 </body>
 </html>
