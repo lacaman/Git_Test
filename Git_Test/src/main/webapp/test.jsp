@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+    git_update
+    git_update2
 </body>
 </html>
